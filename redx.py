@@ -7,7 +7,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-token = "8317040909:AAFpN_Wtz3NlYX1NmJFL6_olNZOPpzbTwd8"
+token = "8385966317:AAGbtrSpu9whxNzHhsZNVQHxxr1sq0eIuUQ"
 elos = telebot.TeleBot(token)
 
 # कॉन्फिगरेशन
